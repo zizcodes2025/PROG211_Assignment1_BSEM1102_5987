@@ -202,7 +202,3 @@ Saving records to a file, editing products, a list of individual loss events, re
 ## 17. Licence
 
 MIT Licence — see the `LICENSE` file.
-
-## 18. Author
-
-Abdul Aziz Sesay — Software Engineering, Limkokwing University of Creative Technology, Sierra Leone.
