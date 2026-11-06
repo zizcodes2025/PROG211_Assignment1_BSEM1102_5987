@@ -48,8 +48,7 @@ Small retailers and shop owners in Sierra Leone and similar communities.
 ## 6. Installation and running
 
 ```bash
-git clone https://github.com/<your-username>/StockGuard.git
-cd StockGuard
+[git clone https://github.com/zizcodes2025/PROG211_Assignment1_BSEM1102_5987]
 python main.py        # on some systems: python3 main.py
 ```
 
